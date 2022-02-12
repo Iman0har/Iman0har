@@ -5,7 +5,7 @@
 </p>
 <!-- ![Night-Coding](https://user-images.githubusercontent.com/88575764/142670455-c19ae283-4950-4548-a3dc-26d8a9804b97.gif) -->
 <h2 align="center">About me: 👨🏽‍💻</h2>
-<p align="center">I am a Full-stack web developer and I love programming and technology💻. I thrive on challenges and constantly set goals🎯 for myself, so I have something to strive towards. I’m always looking for an opportunity to learn something new and I’m currently learning🌱 React. Other than the tech I'm interested in paintings🖌️, listening to music🎵, and explore nature🌴 .</p>
+<p align="center">I am a Full-stack web developer and I love coding💻.  I’m always looking for an opportunity to learn something new and I’m currently learning🌱 React. Other than the tech I'm interested in Volleyball, listening to music, and writing stories .</p>
 <h2 align="center">Languages and tools: 🧰</h2>
 
 <div align="center">
