@@ -31,8 +31,8 @@
 <div align="center" display="flex">
   <a target="_blank" href="https://www.linkedin.com/in/kapila-mucchinthala-498424216/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <!--   <a target="_blank" href="https://twitter.com/KMuchintala"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a> -->
-  <a target="_blank" href="mailto: kapilamucchinthala@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a target="_blank" href="https://github.com/kapila-mucchinthala"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a target="_blank" href="https://kapila-mucchinthala-portfolio.vercel.app"><img src="https://img.shields.io/badge/Portfolio-1DA1F2?style=for-the-badge&logo=portfolio&logoColor=white" /></a>
+  <a target="_blank" href="mailto: manoharrao567@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a target="_blank" href="https://github.com/Iman0har"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a target="_blank" href=""><img src="https://img.shields.io/badge/Portfolio-1DA1F2?style=for-the-badge&logo=portfolio&logoColor=white" /></a>
 </div>
  
