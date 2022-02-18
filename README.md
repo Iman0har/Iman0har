@@ -25,7 +25,7 @@
 
 <h3 align="center">GitHub Analytics: </h3>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kapila-mucchinthala&langs_count=8&theme=algolia" alt="kapila-mucchinthala's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Iman0har&langs_count=8&theme=algolia" alt="Iman0har's GitHub stats" />
 </div>
 <h3 align="center">How to reach me: 📫</h3>
 <div align="center" display="flex">
