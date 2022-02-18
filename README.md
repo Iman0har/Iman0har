@@ -33,6 +33,6 @@
 <!--   <a target="_blank" href="https://twitter.com/manohar9517"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a> -->
   <a target="_blank" href="mailto: manoharrao567@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a target="_blank" href="https://github.com/Iman0har"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a target="_blank" href=""><img src="https://manoharrao13.vercel.app/?style=for-the-badge&logo=portfolio&logoColor=white" /></a>
+  <a target="_blank" href=""><img src="https://manoharrao13.vercel.app/" /></a>
 </div>
  
